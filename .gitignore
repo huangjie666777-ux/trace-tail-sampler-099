@@ -1,0 +1,10 @@
+/vendor/
+/bin/
+/.cache/
+*.test
+*.out
+*.log
+.env
+.env.*
+*.pem
+*.key
